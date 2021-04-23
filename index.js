@@ -5,7 +5,7 @@ function fetchBooks() {
   return response.json();
 })
 .then(function(json){
-  // Use the data inside of `json` to do DOM manipulation
+  
 })
 }
 
